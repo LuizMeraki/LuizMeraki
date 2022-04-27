@@ -4,7 +4,7 @@ I'm on my way to be a Full-stack developer and for me, there are no barriers tha
 My goal is to be better than I was yesterday, not better than anyone else.
 
 - 🌱 From Brazil
-- 💻 I’m currently learning HTML <img align="center" alt="-html5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+- 💻 I’m currently learning - HTML<img align="center" alt="-html5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 - ⚡ Future skills: 
     - CSS<img align="center" alt="-css3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     - JS<img align="center" alt="-javascript" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
