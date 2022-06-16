@@ -30,7 +30,7 @@
 </div>
  <br>
  
-<h3>Frase para a vida 💡:</h3>
+<h3>Filosofia que adquiri para minha vida 💡:</h3>
 <em>" Today better than yesterday, tomorrow better than today. "</em> - Kaizen
     
 Dito isto, vamos programar! 💻⚡
