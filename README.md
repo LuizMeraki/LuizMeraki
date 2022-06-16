@@ -1,23 +1,34 @@
-### Hi there, I'm Luiz!🦊👋
+<h1 align="center">Olá 👋, Eu me chamo Luiz</h1>
+<h3 align="center">Desenvolvedor Front-end Jr.</h3>
 
-I'm on my way to be a Full-stack developer and for me, there are no barriers that stop me from learning.
-My goal is to be better than I was yesterday, not better than anyone else.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luizmeraki&label=Profile%20views&color=0e75b6&style=flat" alt="luizmeraki" /> </p>
 
-- 🌱 From Brazil
-- 💻 I’m currently learning - HTML<img align="center" alt="-html5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-- ⚡ Future skills: 
-    - CSS<img align="center" alt="-css3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    - JS<img align="center" alt="-javascript" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    - React<img align="center" alt="-react" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    - Vue.js<img align="center" alt="-vuejs" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    - Angular<img align="center" alt="-angular" height="20" width="20" src="https://avatars1.githubusercontent.com/u/139426?s=280&v=4">
-- 🌊 Fun Fact: I like to surf
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizmeraki" alt="luizmeraki" /></a> </p>
 
-<h3 align="left">📫 How to reach me🦊:</h3>
+- 🌱 Atualmente estou aprendendo **JavaScripty**
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olsdev.contato@gmail.com)](mailto:olsdev.contato@gmail.com)
+- 🤝 Estou procurando **Vaga como Desenvolvedor Front-end Jr**
+
+- 💬 Pergunte-me sobre **HTML5 CSS3**
+
+- 📫 Onde me encontrar **luizollvrsantos@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-henrique-a77732240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luiz-henrique-a77732240/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/luizmeraki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luizmeraki/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizmeraki&show_icons=true&locale=en&layout=compact" alt="luizmeraki" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizmeraki&show_icons=true&locale=en" alt="luizmeraki" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizmeraki&" alt="luizmeraki" /></p>
 
 " Today better than yesterday, tomorrow better than today. "
     <br> - Kaizen
     
-Having said that, let's code! 💻⚡
+Dito isto, vamos programar! 💻⚡
