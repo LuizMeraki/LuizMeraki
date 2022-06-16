@@ -32,7 +32,7 @@
  
  <h2>Breve irei aprender:</h2>
  <div>
-  <strong>- Angular</strong><img align="left" alt="Luiz-CSS" height="45" width="45" src="https://avatars1.githubusercontent.com/u/139426?s=280&v=4">
+  <strong>- Angular</strong><img align="left" alt="Luiz-CSS" height="40" width="40" src="https://avatars1.githubusercontent.com/u/139426?s=280&v=4">
 </svg-icon>
   <br>
   <br>
