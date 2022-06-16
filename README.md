@@ -34,3 +34,8 @@
 <em>" Today better than yesterday, tomorrow better than today. "</em> - Kaizen
     
 Dito isto, vamos programar! 💻⚡
+<br>
+
+<div>
+  ![Snake animation](https://github.com/LuizMeraki/LuizMeraki/blob/output/github-contribution-grid-snake.svg)
+</div>
