@@ -36,6 +36,4 @@
 Dito isto, vamos programar! 💻⚡
 <br>
 
-<div>
-  ![Snake animation](https://github.com/LuizMeraki/LuizMeraki/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/LuizMeraki/LuizMeraki/blob/output/github-contribution-grid-snake.svg)
