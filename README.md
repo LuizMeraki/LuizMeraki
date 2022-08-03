@@ -1,9 +1,9 @@
 <h1 align="center">Olá, Eu sou Luiz! 👋 <br> Desenvolvedor Front-end Jr.👨‍💻</h1>
 <br>
 
-- 🔥 Atualmente estou estudando: **JavaScripty**
+- 🔥 Atualmente estou estudando: **React**
 - 💼 Estou à procura de: **vaga como Desenvolvedor Front-end**
-- 💬 Que tal falarmos sobre: **HTML5** e **CSS3** ?
+- 💬 Que tal falarmos sobre: **HTML5**, **CSS3**, **JavaScript** ou **React**?
 <br>
 
 <div align="center">
@@ -16,8 +16,11 @@
 <div>
   <strong>- HTML</strong><img align="left" alt="Luiz-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <br>
-    <br>
+  <br>
   <strong>- CSS</strong><img align="left" alt="Luiz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <br>
+  <br>
+  <strong>- JavaScript</strong><img align="left" alt="Luiz-JS" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 <br>
 
@@ -32,11 +35,11 @@
  
  <h2>Breve irei aprender:</h2>
  <div>
+ <strong>- React</strong><img align="left" alt="Luiz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <br>
+  <br>
   <strong>- Angular</strong><img align="left" alt="Luiz-CSS" height="40" width="40" src="https://avatars1.githubusercontent.com/u/139426?s=280&v=4">
 </svg-icon>
-  <br>
-  <br>
-  <strong>- React</strong><img align="left" alt="Luiz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <br>
   <br>
   <strong>- Vue.js</strong><img align="left" alt="Luiz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
