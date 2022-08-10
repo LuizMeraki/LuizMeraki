@@ -1,16 +1,19 @@
 <h1 align="center">Olá, Eu sou Luiz! 👋 <br> Desenvolvedor Front-end 👨‍💻</h1>
 <br>
 
+
 - 🔥 Atualmente estou: **aprimorando meu conhecimento nas tecnologias que eu já sei**;
 - 💼 Estou à procura de vaga: **Desenvolvedor Front-end**;
 - 💻 Meu portfólio: **<a href='https://luizmeraki.github.io/LuizPortifolio/' target='_blank'>Luiz Meraki - portfólio</a>**;
 <br>
+
 
 <div align="center">
   <a href="https://github.com/luizmeraki"></a>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuizMeraki&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMeraki&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 
 <h2>Tecnologias que domino: 🚀</h2>
 <div>
@@ -27,6 +30,7 @@
 </div>
 <br>
 
+
 <h2>Onde você pode me contatar: 📲</h2>    
 
 <div>
@@ -36,6 +40,7 @@
   <a href='https://luizmeraki.github.io/LuizPortifolio/' target='_blank'><img src='https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white'></a>
 </div>
  <br>
+ 
  
  <h2>Breve estudarei e dominarei sobre: 📒</h2>
  
@@ -49,7 +54,6 @@
  </ul>
  
  
-
 <h3>Filosofia que adquiri para minha vida 💡:</h3>
 <em>" Today better than yesterday, tomorrow better than today. "</em> - Kaizen
 <br>
