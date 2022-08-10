@@ -15,7 +15,7 @@
 </div>
 
 
-<h2>Tecnologias que domino: 🚀</h2>
+<h2>Tecnologias que domino 🚀:</h2>
 <div>
   <strong>- HTML</strong><img align="left" alt="Luiz-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <br>
@@ -42,7 +42,7 @@
  <br>
  
  
- <h2>Breve estudarei e dominarei sobre: 📒</h2>
+ <h2>Breve estudarei e dominarei sobre 📒:</h2>
  
  <ul>
   <li>Vite (criação otimizada de apps react);</li>
