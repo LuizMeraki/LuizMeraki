@@ -45,12 +45,12 @@
  <h2>Breve estudarei e dominarei sobre 📒:</h2>
  
  <ul>
-  <li>Vite (criação otimizada de apps react);</li>
+  <li>Vite (<i>criação otimizada de apps react</i>);</li>
   <li>Comandos Git;</li>
   <li>Consumo de API;</li>
   <li>JS async : await;</li>
   <li>TypeScript;</li>
-  <li>SEO (Search Engine Optimization);</li>
+  <li>SEO (<i>Search Engine Optimization</i>);</li>
  </ul>
  
  
