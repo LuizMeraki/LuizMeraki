@@ -1,8 +1,8 @@
 <h1 align="center">Olá, Eu sou Luiz! 👋 <br> Desenvolvedor Front-end 👨‍💻</h1>
 <br>
 
-- 🔥 Atualmente estou estudando: **React**
-- 💼 Estou à procura de: **vaga como Desenvolvedor Front-end**
+- 🔥 Atualmente estou: **aprimorando meu conhecimento nas tecnologias que eu já sei**
+- 💼 Estou à procura de vaga: **Desenvolvedor Front-end**
 <br>
 
 <div align="center">
@@ -11,7 +11,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMeraki&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<h2>Tecnologias que domino:</h2>
+<h2>Tecnologias que domino: 🚀</h2>
 <div>
   <strong>- HTML</strong><img align="left" alt="Luiz-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <br>
@@ -26,7 +26,7 @@
 </div>
 <br>
 
-<h2>Onde você pode me contatar:</h2>    
+<h2>Onde você pode me contatar: 📲</h2>    
 
 <div>
   <a href="https://www.linkedin.com/in/luiz-henrique-dev-frontend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -35,19 +35,22 @@
 </div>
  <br>
  
- <h2>Breve irei aprender:</h2>
- <div>
-  <strong>- Angular</strong><img align="left" alt="Luiz-CSS" height="40" width="40" src="https://avatars1.githubusercontent.com/u/139426?s=280&v=4">
-</svg-icon>
-  <br>
-  <br>
-  <strong>- Vue.js</strong><img align="left" alt="Luiz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-</div>
-<br>
+ <h2>Breve estudarei sobre: 📒</h2>
+ 
+ <ul>
+  <li>Vite (criação otimizada de apps react);</li>
+  <li>Comandos Git;</li>
+  <li>Consumo de API;</li>
+  <li>JS async : await;</li>
+  <li>TypeScript;</li>
+  <li>SEO (Search Engine Optimization);</li>
+ </ul>
+ 
+ <br>
 
 <h3>Filosofia que adquiri para minha vida 💡:</h3>
 <em>" Today better than yesterday, tomorrow better than today. "</em> - Kaizen
 <br>
 <br>
 
-Dito isto, vamos programar! 💻⚡
+Dito isto, vamos programar! 💻🚀⚡
