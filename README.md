@@ -1,8 +1,9 @@
 <h1 align="center">Olá, Eu sou Luiz! 👋 <br> Desenvolvedor Front-end 👨‍💻</h1>
 <br>
 
-- 🔥 Atualmente estou: **aprimorando meu conhecimento nas tecnologias que eu já sei**
-- 💼 Estou à procura de vaga: **Desenvolvedor Front-end**
+- 🔥 Atualmente estou: **aprimorando meu conhecimento nas tecnologias que eu já sei*;
+- 💼 Estou à procura de vaga: **Desenvolvedor Front-end**;
+- 💻 Meu portfólio: **<a href='https://luizmeraki.github.io/LuizPortifolio/' target='_blank'>portfólio Luiz Meraki</a>**;
 <br>
 
 <div align="center">
@@ -32,6 +33,7 @@
   <a href="https://www.linkedin.com/in/luiz-henrique-dev-frontend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:luizollvrsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://instagram.com/luizmeraki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href='https://luizmeraki.github.io/LuizPortifolio/' target='_blank'><img src='https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white'></a>
 </div>
  <br>
  
