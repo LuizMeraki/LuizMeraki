@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Eu sou Luiz! 👋 <br> Desenvolvedor Front-end 👨‍💻</h1>
 <br>
 
-- 🔥 Atualmente estou: **aprimorando meu conhecimento nas tecnologias que eu já sei*;
+- 🔥 Atualmente estou: **aprimorando meu conhecimento nas tecnologias que eu já sei**;
 - 💼 Estou à procura de vaga: **Desenvolvedor Front-end**;
 - 💻 Meu portfólio: **<a href='https://luizmeraki.github.io/LuizPortifolio/' target='_blank'>Luiz Meraki - portfólio</a>**;
 <br>
@@ -48,7 +48,7 @@
   <li>SEO (Search Engine Optimization);</li>
  </ul>
  
- <br>
+ 
 
 <h3>Filosofia que adquiri para minha vida 💡:</h3>
 <em>" Today better than yesterday, tomorrow better than today. "</em> - Kaizen
