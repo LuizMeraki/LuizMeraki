@@ -37,7 +37,7 @@
 </div>
  <br>
  
- <h2>Breve estudarei sobre: 📒</h2>
+ <h2>Breve estudarei e dominarei sobre: 📒</h2>
  
  <ul>
   <li>Vite (criação otimizada de apps react);</li>
