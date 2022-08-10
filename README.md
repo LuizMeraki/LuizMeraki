@@ -3,7 +3,7 @@
 
 - 🔥 Atualmente estou: **aprimorando meu conhecimento nas tecnologias que eu já sei*;
 - 💼 Estou à procura de vaga: **Desenvolvedor Front-end**;
-- 💻 Meu portfólio: **<a href='https://luizmeraki.github.io/LuizPortifolio/' target='_blank'>portfólio Luiz Meraki</a>**;
+- 💻 Meu portfólio: **<a href='https://luizmeraki.github.io/LuizPortifolio/' target='_blank'>Luiz Meraki - portfólio</a>**;
 <br>
 
 <div align="center">
