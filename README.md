@@ -1,61 +1,82 @@
-<h1 align="center">Olá, Eu sou Luiz! 👋 <br> Desenvolvedor Front-end 👨‍💻</h1>
+<h1 align="center">Oi, me chamo Luiz e sou desenvolvedor Front-end 👨‍💻</h1>
+
 <br>
 
 
-- 🔥 Atualmente estou: **aprimorando meu conhecimento nas tecnologias que eu já sei**;
-- 💼 Estou à procura de vaga: **Desenvolvedor Front-end**;
-- 💻 Meu portfólio: **<a href='https://luizmeraki.github.io/LuizPortifolio/' target='_blank'>Luiz Meraki - portfólio</a>**;
+<img align="center" src="https://user-images.githubusercontent.com/75648386/206326943-a17214d9-eae4-4429-8e2e-8f0ea4000b02.png" />
+
+
+<br>
 <br>
 
 
 <div align="center">
-  <a href="https://github.com/luizmeraki"></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizMeraki&layout=compact&langs_count=7&theme=radical"/>
+  <span>🪐</span>
+  <a href="#sobremim">Tecnologias</a> -  
+  <a href="#sobremim">Sobre mim</a> -  
+  <a href="#contatos">Contatos</a>
+  <span>🪐</span>
 </div>
 
 
-<h2>Tecnologias que domino 🚀:</h2>
-<div>
-  <strong>- HTML</strong><img align="left" alt="Luiz-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <br>
-  <br>
-  <strong>- CSS</strong><img align="left" alt="Luiz-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <br>
-  <br>
-  <strong>- JavaScript</strong><img align="left" alt="Luiz-JS" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <br>
-  <br>
-  <strong>- React</strong><img align="left" alt="Luiz-JS" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
+<br>
 <br>
 
 
-<h2>Onde você pode me contatar: 📲</h2>    
+<h2 id="tecnologias">Tecnologias e ferramentas que atuo - 🛠</h2>
 
-<div>
-  <a href="https://www.linkedin.com/in/luiz-henrique-dev-frontend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luizollvrsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-  <a href="https://instagram.com/luizmeraki" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href='https://luizmeraki.github.io/LuizPortifolio/' target='_blank'><img src='https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white'></a>
-</div>
- <br>
- 
- 
- <h2>Breve estudarei e dominarei sobre 📒:</h2>
- 
- <ul>
-  <li>Vite (<i>criação otimizada de apps react</i>);</li>
-  <li>Comandos Git;</li>
-  <li>Consumo de API;</li>
-  <li>JS async : await;</li>
-  <li>TypeScript;</li>
-  <li>SEO (<i>Search Engine Optimization</i>);</li>
- </ul>
- 
- 
-<h3>Filosofia que adquiri para minha vida 💡:</h3>
+<ul>
+  <li>HTML</li>
+  <li>CSS Modules</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>React</li>
+  <li>React Router DOM</li>
+  <li>Requisições HTTP</li>
+  <li>Axios</li>
+  <li>Vite</li>
+</ul>
+
+<br>
+
+
+<h2 id="sobremim">Sobre mim - 🎈</h2>
+
+Olá, eu me chamo Luiz, e sou desenvolvedor front-end. Fiz um curso de trilha front-end, depois fiz outro curso para me aprofundar no React, atualmente sou autodidata, aplico os conhecimentos que obtive nos cursos em projetos pessoais para obter minha experiência e, estudo para me aprofundar nas tecnologias da minha stack, e das que estão em alta e fazem sentido para minha carreira. 
+
+Eu estudo e atuo em meus projetos de seg. a sex. de manhã até o final da tarde, as vezes no fim de semana também. Eu também entro na comunidade da Rocketseat no discord para ajudar através das chamadas, os devs que estão precisando de ajuda nos códigos, assim eu ensino e, aprendo com quem tem algo a ensinar.
+
+Eu sei empregar conceitos muito utilizados no mercado de trabalho, são eles os seguintes:
+
+- SPA;
+- Roteamento;
+- Requisições HTTP;
+- Tratamento de erros;
+- Feedback de loading e erro;
+- Gerenciamento de estados globais (Context API);
+- etc;
+
+Estou em busca de uma oportunidade como dev front-end no mercado de trabalho, caso você saiba de alguma, ficarei grato se entrar em contato comigo.
+
+<br>
+
+
+<h2 id="contatos">Meus contatos e redes sociais - 📬</h2>
+
+LinkedIn: https://www.linkedin.com/in/luiz-henrique-dev-frontend <br>
+Portfólio: https://portfolio-luizmeraki.vercel.app/ <br>
+E-mail: luizollvrsantos@gmail.com <br>
+Instagram: https://instagram.com/luizmeraki
+
+
+<br>
+
+
+### Filosofia que adquiri para minha vida - 💡
+
 <em>" Today better than yesterday, tomorrow better than today. "</em> - Kaizen
+
 <br>
 <br>
 
-Dito isto, vamos programar! 💻🚀⚡
+Dito isto, vamos codar! 🎈⚡
